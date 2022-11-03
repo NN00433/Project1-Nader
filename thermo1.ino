@@ -5,7 +5,7 @@
 
 // Measure Temperature using NTC Thermistor:
  
-// 0- General
+
  
  
 // 1- Temperature Measurement
